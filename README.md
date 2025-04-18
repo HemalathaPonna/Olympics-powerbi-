@@ -47,6 +47,8 @@ This project is a comprehensive data visualization and analysis of over a centur
 - 📈 **Historical Trends:** Olympics over time – participation, growth, and performance
 
 ---
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/873d5346-b742-4a5f-9802-370c533f8a2b" />
+
 
 ## 📚 Learnings
 
@@ -73,4 +75,3 @@ This project is a comprehensive data visualization and analysis of over a centur
 
 ---
 
-Let me know if you want this in a downloadable `.md` file or want a custom PDF version for your portfolio!
